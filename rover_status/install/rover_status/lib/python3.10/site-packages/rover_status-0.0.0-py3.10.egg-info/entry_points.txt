@@ -1,0 +1,5 @@
+[console_scripts]
+display = rover_status.displayer:main
+publish_data = rover_status.battery_temp:main
+publish_health = rover_status.update_health_status:main
+

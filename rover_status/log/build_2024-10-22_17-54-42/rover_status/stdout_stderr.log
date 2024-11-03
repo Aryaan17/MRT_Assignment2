@@ -1,0 +1,43 @@
+running egg_info
+creating build/rover_status/rover_status.egg-info
+writing build/rover_status/rover_status.egg-info/PKG-INFO
+writing dependency_links to build/rover_status/rover_status.egg-info/dependency_links.txt
+writing entry points to build/rover_status/rover_status.egg-info/entry_points.txt
+writing requirements to build/rover_status/rover_status.egg-info/requires.txt
+writing top-level names to build/rover_status/rover_status.egg-info/top_level.txt
+writing manifest file 'build/rover_status/rover_status.egg-info/SOURCES.txt'
+reading manifest file 'build/rover_status/rover_status.egg-info/SOURCES.txt'
+writing manifest file 'build/rover_status/rover_status.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build
+creating /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib
+creating /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+copying rover_status/battery_temp.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+copying rover_status/update_health_status.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+copying rover_status/__init__.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+copying rover_status/displayer.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+running install
+running install_lib
+creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/battery_temp.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/update_health_status.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/__init__.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/displayer.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/battery_temp.py to battery_temp.cpython-310.pyc
+byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/update_health_status.py to update_health_status.cpython-310.pyc
+byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/displayer.py to displayer.cpython-310.pyc
+running install_data
+creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index
+creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index/resource_index
+creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index/resource_index/packages
+copying resource/rover_status -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index/resource_index/packages
+copying package.xml -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/rover_status
+running install_egg_info
+Copying build/rover_status/rover_status.egg-info to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status-0.0.0-py3.10.egg-info
+running install_scripts
+Installing display script to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/rover_status
+Installing publish_data script to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/rover_status
+Installing publish_health script to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/rover_status
+writing list of installed files to '/home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/install.log'

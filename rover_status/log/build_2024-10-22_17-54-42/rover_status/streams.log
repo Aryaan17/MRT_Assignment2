@@ -1,0 +1,45 @@
+[0.628s] Invoking command in '/home/aryaanb17/ros2_ws/src/rover_status': PYTHONPATH=/home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/rover_status build --build-base /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build install --record /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/install.log --single-version-externally-managed install_data
+[0.901s] running egg_info
+[0.903s] creating build/rover_status/rover_status.egg-info
+[0.903s] writing build/rover_status/rover_status.egg-info/PKG-INFO
+[0.903s] writing dependency_links to build/rover_status/rover_status.egg-info/dependency_links.txt
+[0.903s] writing entry points to build/rover_status/rover_status.egg-info/entry_points.txt
+[0.903s] writing requirements to build/rover_status/rover_status.egg-info/requires.txt
+[0.903s] writing top-level names to build/rover_status/rover_status.egg-info/top_level.txt
+[0.903s] writing manifest file 'build/rover_status/rover_status.egg-info/SOURCES.txt'
+[0.905s] reading manifest file 'build/rover_status/rover_status.egg-info/SOURCES.txt'
+[0.905s] writing manifest file 'build/rover_status/rover_status.egg-info/SOURCES.txt'
+[0.905s] running build
+[0.905s] running build_py
+[0.905s] creating /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build
+[0.906s] creating /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib
+[0.906s] creating /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+[0.906s] copying rover_status/battery_temp.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+[0.906s] copying rover_status/update_health_status.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+[0.906s] copying rover_status/__init__.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+[0.906s] copying rover_status/displayer.py -> /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status
+[0.907s] running install
+[0.907s] running install_lib
+[0.908s] creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.908s] copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/battery_temp.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.908s] copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/update_health_status.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.908s] copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/__init__.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.908s] copying /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build/lib/rover_status/displayer.py -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.909s] byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/battery_temp.py to battery_temp.cpython-310.pyc
+[0.909s] byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/update_health_status.py to update_health_status.cpython-310.pyc
+[0.910s] byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/__init__.py to __init__.cpython-310.pyc
+[0.910s] byte-compiling /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status/displayer.py to displayer.cpython-310.pyc
+[0.910s] running install_data
+[0.910s] creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index
+[0.911s] creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index/resource_index
+[0.911s] creating /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index/resource_index/packages
+[0.911s] copying resource/rover_status -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/ament_index/resource_index/packages
+[0.911s] copying package.xml -> /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/share/rover_status
+[0.911s] running install_egg_info
+[0.913s] Copying build/rover_status/rover_status.egg-info to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages/rover_status-0.0.0-py3.10.egg-info
+[0.914s] running install_scripts
+[0.933s] Installing display script to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/rover_status
+[0.933s] Installing publish_data script to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/rover_status
+[0.934s] Installing publish_health script to /home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/rover_status
+[0.934s] writing list of installed files to '/home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/install.log'
+[0.960s] Invoked command in '/home/aryaanb17/ros2_ws/src/rover_status' returned '0': PYTHONPATH=/home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aryaanb17/ros2_ws/src/rover_status/install/rover_status/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/rover_status build --build-base /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/build install --record /home/aryaanb17/ros2_ws/src/rover_status/build/rover_status/install.log --single-version-externally-managed install_data
